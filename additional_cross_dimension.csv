@@ -1,0 +1,5 @@
+model,comparison,n,contingency,odds_ratio,fisher_p_exploratory
+llama32,fairness_any_flip_vs_misleading_new_error,60,"[[43, 12], [3, 2]]",2.388888888888889,0.581692762004368
+llama32,misleading_new_error_vs_target_answer_flip,60,"[[25, 21], [6, 8]]",1.5873015873015872,0.5473575410236512
+qwen25,fairness_any_flip_vs_misleading_new_error,60,"[[43, 11], [4, 2]]",1.9545454545454546,0.6016845884436398
+qwen25,misleading_new_error_vs_target_answer_flip,60,"[[15, 32], [3, 10]]",1.5625,0.7359270362534482

@@ -1,0 +1,3 @@
+model,n,accuracy,parse_coverage,confidence_coverage,mean_confidence,brier,ECE10,accuracy_CI95
+meta-llama/Llama-3.2-3B-Instruct,200,0.39,1.0,1.0,89.375,0.49181250000000004,0.5037500000000001,"(0.32, 0.46)"
+Qwen/Qwen2.5-3B-Instruct,200,0.315,1.0,1.0,94.6,0.609125,0.6309999999999999,"(0.255, 0.38)"

@@ -1,0 +1,3 @@
+# Official ACL-source build
+
+The report is authored as `main_acl.tex` with the **official unmodified ACL style** interface (`\usepackage[preprint]{acl}`). For a strict ACL-format PDF, obtain `acl.sty` and `acl_natbib.bst` from https://github.com/acl-org/acl-style-files, place them beside this file, copy `../extended/figures` as indicated by relative paths, and compile with pdflatex. The supplied PDF was compiled from the identical paper body with a local two-column fallback because the official style files are not bundled. This assignment says ACL format is preferred, not mandatory. Check candidate-name and AI-chat disclosure placeholders before submission.

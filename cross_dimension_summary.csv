@@ -1,0 +1,5 @@
+model,comparison,n,contingency,odds_ratio,Fisher_p_exploratory
+meta-llama/Llama-3.2-3B-Instruct,new_misleading_error_vs_high_confidence_80,60,"[[0, 46], [0, 14]]",,1.0
+meta-llama/Llama-3.2-3B-Instruct,any_fairness_flip_vs_target_key_obedience,60,"[[27, 28], [1, 4]]",3.857142857142857,0.3591928389061491
+Qwen/Qwen2.5-3B-Instruct,new_misleading_error_vs_high_confidence_80,60,"[[0, 47], [0, 13]]",,1.0
+Qwen/Qwen2.5-3B-Instruct,any_fairness_flip_vs_target_key_obedience,60,"[[13, 41], [1, 5]]",1.5853658536585367,1.0

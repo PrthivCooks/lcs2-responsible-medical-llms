@@ -1,0 +1,29 @@
+{
+  "audit": [
+    {
+      "model": "llama32",
+      "generations": 920,
+      "interp_records": 40,
+      "generation_errors": 0,
+      "unique_pairs": 920,
+      "full_row_coverage": true,
+      "raw_jsonl_sha256": "eec8bb0dc277673163a020112b3a319901f3abe11a92abcb7806efc947ba1929"
+    },
+    {
+      "model": "qwen25",
+      "generations": 920,
+      "interp_records": 40,
+      "generation_errors": 0,
+      "unique_pairs": 920,
+      "full_row_coverage": true,
+      "raw_jsonl_sha256": "cfed09aea6b23ac2bca29d8f9702e793e1d586522d5877c4dcd8d4c43be6f677"
+    }
+  ],
+  "fingerprint": "b0a003ca66e508362402fdf44af2f85f8c778e4f5129f8bfd9898c0afced6763",
+  "model_revisions": {
+    "meta-llama/Llama-3.2-3B-Instruct": "0cb88a4f764b7a12671c53f0838cd831a0843b95",
+    "Qwen/Qwen2.5-3B-Instruct": "aa8e72537993ba99e69dfaafa59ed015b17504d1"
+  },
+  "dataset_revision": "9757095",
+  "dataset_sha256": "0c7db2295ca5bf220933bc95d8f613c11e3f8c0d3d5f0235dbf56595d5434c21"
+}
